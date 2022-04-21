@@ -1,6 +1,6 @@
 Project Name
-
  Hello Microverse
+ 
 Description the project.
  The first project in microverse and practice to learn GitHub, HtML, CSS and importance of linters.
 
@@ -33,4 +33,4 @@ Hat tip to anyone whose code was used
 Inspiration
 etc
 memo License
-This project is MIT licensed.
+This project is microverse licensed.
